@@ -22,4 +22,3 @@ if (pareja) {
     alert("Por favor, escribe tu nombre correctamente.");
 };
 
-alert ("Gracias por participar ¡Dios te bendiga!")
