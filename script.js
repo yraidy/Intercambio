@@ -19,6 +19,6 @@ let pareja = parejas[nombreUsuario];
 if (pareja) {
     alert( nombreUsuario + ", le vas a regalar a " + pareja  );
 } else {
-    alert("Por favor, escribe tu nombre correctamente.");
+    alert("Vuelve a cargar la página y escribe tu nombre correctamente, por favor.");
 };
 
