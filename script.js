@@ -16,6 +16,8 @@ let parejas = {
 let nombreUsuario = prompt("Hola, por favor ingresa tu nombre");
 let pareja = parejas[nombreUsuario];
 
+let numero = prompt ("Ingresa un número")
+
 if (pareja) {
     alert( nombreUsuario + ", le vas a regalar a " + pareja  );
 } else {
